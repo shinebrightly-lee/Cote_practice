@@ -47,8 +47,6 @@ public class Q_25556 {
                 i = n;
                 break;
             }
-
-
 //            static void stackPush(Stack<Integer> stack,int[] nArr1,int idx,int i,int stackCount){
 //
 //            }
