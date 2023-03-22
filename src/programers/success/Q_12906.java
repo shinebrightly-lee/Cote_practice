@@ -1,8 +1,8 @@
-package programers;
+package programers.success;
 
 import java.util.*;
 
-public class stackNumber {
+public class Q_12906 {
     public static void main(String[] args) {
         int []arr = {1,1,3,3,0,1,1};
         Stack<Integer> stack = new Stack<Integer>();
