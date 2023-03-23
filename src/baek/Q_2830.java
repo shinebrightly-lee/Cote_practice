@@ -9,6 +9,6 @@ public class Q_2830 {
         System.out.println(Integer.toBinaryString(1));
         System.out.println(Integer.toBinaryString(9));
         System.out.println(Integer.toBinaryString(6));
-        System.out.println( Integer.parseInt("1010",2));
+        System.out.println( Integer.parseInt("1100",2));
     }
 }
