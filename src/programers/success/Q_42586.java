@@ -29,6 +29,7 @@ public class Q_42586 {
             count++;
         }
         arrayList.add(count);
+        System.out.println(arrayList);
         arrayList.toArray(); // arraylist -> array
 //        str += count;
 //        String[] arr = str.split(" ");
