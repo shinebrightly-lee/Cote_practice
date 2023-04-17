@@ -1,4 +1,4 @@
-package programers;
+package programers.success;
 
 import java.util.*;
 
@@ -19,6 +19,11 @@ public class Q_120835 {
                 }
             }
         }
+        String a = "abc";
+        String b = a;
+        b = "sss";
+        System.out.println(a);
+
         System.out.println(Arrays.toString(answer));
 
     }
